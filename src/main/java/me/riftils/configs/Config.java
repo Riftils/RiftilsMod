@@ -11,14 +11,6 @@ public class Config extends Vigilant {
 
     @Property(
             type = PropertyType.SWITCH,
-            name = "Item Need Warning",
-            description = "best feature",
-            category = "Mirrorverse"
-    )
-    public boolean mirrorVerseRequiredItems = false;
-
-    @Property(
-            type = PropertyType.SWITCH,
             name = "Craft Axe Solver",
             description = "Render entities in mirror",
             category = "Mirrorverse"
