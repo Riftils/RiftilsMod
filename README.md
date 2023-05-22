@@ -10,8 +10,6 @@ https://github.com/Riftils/Riftils/releases/tag/alpha
 
 </details><details><summary>Mirrorverse</summary>
   
-  ### Solvers
-  
   ##### Lava
   - Render outlines on real stone 
   ##### Craft axe
@@ -20,10 +18,9 @@ https://github.com/Riftils/Riftils/releases/tag/alpha
   - Render outlines on real blocks
   ##### Jump
   - Render outlines on invisible blocks
+  - Render Original Block
+  
   ![image](https://github.com/Riftils/Riftils/assets/134161899/617dbc1a-db6c-4f63-8700-8d662c45fe49)
-  
-  ### Original Blocks
-  
   
 </details><details><summary>Dreadfarm</summary>
   
