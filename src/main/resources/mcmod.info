@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "riftils",
+        "name": "Riftils",
+        "description": "A Hypixel Skyblock Rift Utilities mod",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "https://github.com/Riftils/Riftils",
+        "updateUrl": "",
+        "authorList": [""],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]

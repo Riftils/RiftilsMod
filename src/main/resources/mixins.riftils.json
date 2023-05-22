@@ -1,0 +1,11 @@
+{
+    "compatibilityLevel": "JAVA_8",
+    "package": "me.riftils.mixins",
+    "client": [
+        "MixinNetHandlerPlayClient"
+    ],
+    "verbose": true,
+    "mixins": [
+        "MixinNetworkManager"
+    ]
+}
