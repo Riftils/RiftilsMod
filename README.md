@@ -2,6 +2,10 @@
 
 Hypixel Skyblock Rift Utilities mod (alpha)
 
+## Download
+
+https://github.com/Riftils/Riftils/releases/tag/alpha
+
 ## Features
 
 </details><details><summary>Mirrorverse</summary>
@@ -18,7 +22,6 @@ Hypixel Skyblock Rift Utilities mod (alpha)
   - Render outlines on invisible blocks
   
   ### Original Blocks
-  
   
   
 </details><details><summary>Dreadfarm</summary>
