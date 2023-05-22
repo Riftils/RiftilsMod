@@ -4,7 +4,7 @@ Hypixel Skyblock Rift Utilities mod (alpha)
 
 ## Download
 
-https://github.com/Riftils/Riftils/releases/tag/alpha
+[https://github.com/Riftils/Riftils/releases/tag/alpha](https://github.com/Riftils/Riftils/releases)
 
 ## Features
 
