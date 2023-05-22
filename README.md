@@ -33,6 +33,8 @@ https://github.com/Riftils/Riftils/releases/tag/alpha
 
 ## Mod
 
+i made this because i got mad while doing mirrorverse
+
 i think its bad code but it work!!!
 
 ## Credits to Open Source Software
