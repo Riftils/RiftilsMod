@@ -14,12 +14,9 @@ import net.minecraft.util.Vec3;
 import net.minecraftforge.client.event.RenderWorldLastEvent;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-
 public class Mirrorverse {
 
-    private static final ArrayList<Vec3> a = new ArrayList<>(Arrays.asList(
+   private final Vec3[] v = {
             new Vec3(-82.5, 52.5, -111.5),
             new Vec3(-85.5, 52.5, -111.5),
             new Vec3(-85.5, 52.5, -114.5),
@@ -62,7 +59,7 @@ public class Mirrorverse {
             new Vec3(-103.5, 52.5, -113.5),
             new Vec3(-103.5, 52.5, -111.5),
             new Vec3(-105.5, 52.5, -111.5)
-    ));
+    };
 
     @SubscribeEvent
     public void onRenderWorldLast(RenderWorldLastEvent event) {
@@ -91,8 +88,8 @@ public class Mirrorverse {
 
             // Lava Line
             if (Riftils.config.mirrorVerseLavaLine) {
-                for (int i = 1; i < a.size(); i++) {
-                    RenderUtils.draw3DLine(a.get(i - 1), a.get(i), Riftils.config.mirrorVerseLavaLineColor, 2, event.partialTicks);
+               for (int i = 1; i < v.length; i++) {
+                    RenderUtils.draw3DLine(v[i - 1], v[i], Riftils.config.mirrorVerseLavaLineColor, 2, event.partialTicks);
                 }
             }
 
